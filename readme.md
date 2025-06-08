@@ -1,4 +1,3 @@
-# code-challenge-1
 # Code Challenge 1  
 #### A code challenge for Week 1 that contains 3 JavaScript files. Version: June 8, 2025  
 #### By **Joshua Karanja**
@@ -25,4 +24,3 @@ For questions, issues, or contributions, please contact me via my GitHub profile
 ### License  
 *This project is licensed under the MIT License.*  
 Copyright (c) 2025 **Joshua Karanja**
-
